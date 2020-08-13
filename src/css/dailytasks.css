@@ -1,0 +1,162 @@
+﻿body {
+    width:auto;
+}
+
+.navbar-profile-img {
+    width: 35px;
+    height: 35px;
+    border-radius: 50%;
+}
+
+.nav-link.dropdown-toggle {
+    padding-top: 5px;
+}
+
+.title-link {
+    padding-top: 0px;
+}
+
+.custom-ddl {
+    padding: 5px;
+    border: solid 1px #ccc;
+    border-radius: 5px;
+    color: #545b62;
+}
+
+.title-wrap {
+    padding: 10px;
+    border-left: 3px solid #2eca6a;
+    margin: 20px 0px;
+    margin-bottom: 40px;
+}
+
+.highlighted {
+    background: #eadada;
+}
+
+.card {
+    margin-top: 20px;
+}
+
+.card-title {
+    margin-bottom: 0px;
+}
+
+.card-text {
+    margin-top: 10px;
+}
+
+.card-settings {
+    float: right;
+}
+
+    .card-settings i {
+        color: #c41573;
+        font-size:15px;
+        margin-left: 5px;
+    }
+    .card-settings i.fa-remove {
+        color: #ff0000;
+        font-size:17px;
+    }
+
+    .card-settings i:hover {
+        color: #ffd800;
+        cursor:pointer;
+    }
+
+.login-form {
+    width: 300px;
+    margin: 20px auto;
+    background: #e9ecef;
+    padding: 10px;
+}
+    .login-form .text-center {
+        color: #28a745;
+    }
+
+    .login-form h2 {
+        margin: 0 0 15px;
+    }
+
+.form-control, .btn {
+    min-height: 38px;
+    border-radius: 2px;
+}
+.navbar-default.navbar-trans .nav-link{
+    padding-top: 29px;
+}
+.navbar-default {
+    padding-top: 0px;
+    padding-bottom: 0px;
+}
+
+.btn {
+    font-size: 15px;
+    font-weight: bold;
+}
+.login-button{
+    width: 100% !important;
+    margin-left: 0 !important;
+}
+
+.btn-primary {
+    color: #fff;
+    background-color: #28a745;
+    border-color: #28a745;
+}
+
+.login-status {
+    color: #9e9e9e !important;
+}
+
+.profile {
+    text-align:left;
+}
+
+.profile-address {
+    color: #a2a2a2;
+    font-size: 14px;
+}
+
+.profile-links .mail{
+    color: #428bca;
+}
+
+.img-profile {
+    width:100%;
+    padding: 10px;
+    background: #fafafa;
+}
+.react-confirm-alert{
+    border: solid 1px #e1e1e1;
+    border-radius: 10px;
+}
+.add-new{
+    font-size: 15px;
+    color: #007bff !important;
+}
+
+.section-t8 {
+    padding-top: 7rem;
+}
+
+.title-a {
+    font-size: 30px;
+}
+
+.logout:hover{
+    cursor: pointer;
+}
+
+footer {
+    background: inherit;
+}
+
+
+
+@media (max-width: 767px) {
+    .section-t8 {
+        padding-top: 5rem;
+    }
+}

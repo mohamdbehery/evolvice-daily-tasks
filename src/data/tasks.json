@@ -1,0 +1,8 @@
+[
+    {"userId": 1, "categoryId": 1, "id": 1, "name": "Morning running", "description": "Morning running description morning running description morning running description morning running description"},
+    {"userId": 1, "categoryId": 1, "id": 2, "name": "Workout", "description": "Workout description workout description workout description workout description workout description workout description"},
+    {"userId": 1, "categoryId": 2, "id": 3, "name": "Hangout with friends", "description": "Hangout with friends description hangout with friends description hangout with friends description hangout with friends description"},
+    {"userId": 1, "categoryId": 2, "id": 4, "name": "Feed my litle cat", "description": "Feed my litle cat description feed my litle cat description feed my litle cat description feed my litle cat description"},
+    {"userId": 1, "categoryId": 3, "id": 5, "name": "Evolvice practical task", "description": "Evolvice practical task description evolvice practical task description evolvice practical task description"},
+    {"userId": 1, "categoryId": 3, "id": 6, "name": "Mongo with NodeJS POC", "description": "Mongo with NodeJS POC description Mongo with NodeJS POC description Mongo with NodeJS POC description Mongo with NodeJS POC description"}
+]
